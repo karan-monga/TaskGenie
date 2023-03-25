@@ -1,5 +1,5 @@
-# AI Todo
-AI todo is a generic todo app that uses GPT as the back end. 
+# Task Genie
+Task Genie is a to-do app that uses GPT as the back end. 
 
 The server is a simple api that can be called to set the state of the JSON 'database' which is stored in memory, this is passed to GPT with a prompt to manipulate that JSON and return with the response. 
 
