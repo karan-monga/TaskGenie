@@ -24,7 +24,7 @@ npm i
 nodemon server/api.js 
 ```
 
-### App:
+### Client Side:
 
 ```
 cd app
